@@ -1,0 +1,5 @@
+Portfolio: Global All-Weather
+Description: Global mix proxy
+Original Ticker Count: 40
+Final Ticker Count: 39
+Date Range: 2020-01-03 to 2026-01-16

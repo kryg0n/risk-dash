@@ -1,0 +1,5 @@
+Portfolio: Balanced Sector
+Description: Balanced cross-sector sample
+Original Ticker Count: 33
+Final Ticker Count: 32
+Date Range: 2020-01-03 to 2026-01-16

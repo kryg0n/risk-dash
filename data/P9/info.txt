@@ -1,0 +1,5 @@
+Portfolio: International Developed
+Description: International ADRs proxy
+Original Ticker Count: 30
+Final Ticker Count: 26
+Date Range: 2020-01-03 to 2026-01-16

@@ -1,0 +1,5 @@
+Portfolio: S&P 500 Concentrated
+Description: Top 50 mega-caps
+Original Ticker Count: 51
+Final Ticker Count: 50
+Date Range: 2020-01-03 to 2026-01-16

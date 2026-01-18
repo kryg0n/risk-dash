@@ -1,0 +1,5 @@
+Portfolio: S&P 500 Mid-Range
+Description: Stocks ranked 101-200 by market cap
+Original Ticker Count: 100
+Final Ticker Count: 98
+Date Range: 2020-01-03 to 2026-01-16

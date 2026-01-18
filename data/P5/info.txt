@@ -1,0 +1,5 @@
+Portfolio: NASDAQ-100 Tech-Heavy
+Description: Tech-heavy index proxy
+Original Ticker Count: 68
+Final Ticker Count: 66
+Date Range: 2020-01-03 to 2026-01-16

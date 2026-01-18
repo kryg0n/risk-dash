@@ -1,0 +1,42 @@
+
+===========================================
+PORTFOLIO RISK ANALYSIS SUMMARY
+===========================================
+Analysis Date: January 18, 2026
+Portfolio Universe: 292 stocks from S&P 500
+Historical Period: 2020-01-03 to 2026-01-16
+
+STAGE 1: MINIMUM VARIANCE PORTFOLIO
+-------------------------------------------
+Annualized Volatility: 9.83%
+Equal-Weighted Volatility: 16.49%
+Volatility Reduction: 40.38%
+Diversification Ratio: 2.58
+Effective N Stocks: 26.9
+Largest Position: 5.00%
+Top 10 Weight: 49.60%
+
+STAGE 2: EWMA VOLATILITY & VAR
+-------------------------------------------
+Portfolio EWMA Volatility: 8.47% (annualized)
+1-Day 95% VaR: 0.88% ($8,775 on $1M)
+1-Day 99% VaR: 1.24% ($12,408 on $1M)
+10-Day 95% VaR: 2.77% ($27,750 on $1M)
+10-Day 99% VaR: 3.92% ($39,237 on $1M)
+
+STAGE 3: RISK DECOMPOSITION
+-------------------------------------------
+Risk HHI: 0.0362
+Effective N (by risk): 27.6
+Risk from Top 10: 47.69%
+Risk from Top 50: 100.00%
+
+TOP 5 RISK CONTRIBUTORS:
+     Weight (%)  CCR (%)
+CNP      5.0000   5.1563
+ED       5.0000   4.9561
+DUK      5.0000   4.9110
+KO       5.0000   4.8732
+JNJ      5.0000   4.8708
+
+===========================================

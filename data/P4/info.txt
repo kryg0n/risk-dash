@@ -1,0 +1,5 @@
+Portfolio: Russell 1000 Proxy
+Description: Approximation using available large cap universe
+Original Ticker Count: 301
+Final Ticker Count: 292
+Date Range: 2020-01-03 to 2026-01-16

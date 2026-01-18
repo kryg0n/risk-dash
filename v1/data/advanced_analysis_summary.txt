@@ -1,0 +1,36 @@
+================================================================================
+PORTFOLIO RISK ANALYSIS - ADVANCED EDITION
+Stages 0-5 Complete Implementation
+================================================================================
+
+Analysis Date: 2026-01-16
+Portfolio: Minimum Variance (292 stocks)
+Period: 2020-01-03 to 2026-01-16
+
+STAGE 1: OPTIMIZATION
+  Portfolio Volatility: 14.01%
+  Volatility Reduction: 33.09%
+  Active Positions: 36
+
+STAGE 2: EWMA VOLATILITY
+  Current Vol: 73.43%
+  1-Day 99% VaR: 10.76%
+  10-Day 99% VaR: 34.02%
+
+STAGE 3: RISK DECOMPOSITION
+  Diversification Ratio: 1.88
+  Effective N (risk): 25.3
+  Top 10 Risk: 49.53%
+
+STAGE 4: STRESS TESTING
+  Full History 99% VaR: 2.33%
+  COVID Crash 99% VaR: 7.35%
+  Inflation Shock 99% VaR: 3.08%
+  VaR Backtest (95%): PASS
+  VaR Backtest (99%): PASS
+
+STAGE 5: SENSITIVITY
+  Covariance window range: 4.95% - 9.83%
+  Parameter robustness: CONFIRMED
+
+================================================================================

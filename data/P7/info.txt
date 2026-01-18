@@ -1,0 +1,5 @@
+Portfolio: Sector: Defensive
+Description: Utilities and Consumer Staples
+Original Ticker Count: 45
+Final Ticker Count: 44
+Date Range: 2020-01-03 to 2026-01-16

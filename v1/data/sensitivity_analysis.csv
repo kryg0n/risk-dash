@@ -1,0 +1,10 @@
+Parameter,Value,Volatility (%),Key Metric
+Cov Window,126 days,4.949239125156621,Turnover: 150.7%
+Cov Window,252 days (base),14.00651574974326,Turnover: 0%
+Cov Window,504 days,8.851246071407914,Turnover: 139.8%
+EWMA Lambda,0.90,,VaR: 0.67%
+EWMA Lambda,0.94 (base),73.42869990527629,VaR: 10.76%
+EWMA Lambda,0.97,,VaR: 0.71%
+Position Limit,2%,10.372177487157169,Eff N: 54.7
+Position Limit,5% (base),14.00651574974326,Eff N: 24.9
+Position Limit,10%,9.623533471896577,Eff N: 16.9

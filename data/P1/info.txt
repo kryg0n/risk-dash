@@ -1,0 +1,5 @@
+Portfolio: S&P 500 Large-Cap
+Description: Top 300 stocks by market cap (Baseline)
+Original Ticker Count: 301
+Final Ticker Count: 292
+Date Range: 2020-01-03 to 2026-01-16

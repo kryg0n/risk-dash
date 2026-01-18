@@ -1,0 +1,44 @@
+
+DATA QUALITY REPORT
+Generated: 2026-01-18 16:45:37
+============================================================
+
+DOWNLOAD PARAMETERS:
+  Date range: 2020-01-01 to 2026-01-19
+  Initial tickers: 301
+
+DATA QUALITY SUMMARY:
+  Stocks downloaded: 301
+  Stocks passing quality checks: 292
+  Stocks removed: 9
+  Trading days available: 1518
+  Overall missing data: 0.00%
+
+RETURNS STATISTICS:
+  Mean daily return: 0.0434%
+  Mean daily volatility: 2.10%
+  Min daily return: -75.31%
+  Max daily return: 36.45%
+
+REMOVED STOCKS (if any):
+  ANSS: Missing data >5%
+  BRK.B: Missing data >5%
+  CARR: Insufficient history
+  DFS: Missing data >5%
+  HES: Missing data >5%
+  K: Insufficient history
+  KVUE: Missing data >5%
+  OTIS: Insufficient history
+  VLTO: Missing data >5%
+
+FILES CREATED:
+  data/raw_prices.csv       - Raw downloaded prices (301 stocks)
+  data/clean_prices.csv     - Clean prices after QC (292 stocks)
+  data/clean_returns.csv    - Log returns (292 stocks)
+  data/risk_free_rate.csv   - 3-month Treasury rates
+  data/stock_universe.csv   - Stock list with metadata
+  data/data_quality_report.txt - This report
+
+============================================================
+DATA ACQUISITION COMPLETE
+============================================================
