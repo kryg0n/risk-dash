@@ -1,7 +1,6 @@
 # Multi-Portfolio Risk Analysis Report: v2.0
 
 **Date:** January 18, 2026  
-**Analyst:** Risk Dash Quantitative Team  
 **Subject:** Comparative Analysis of 10 Equity Portfolio Strategies using Minimum Variance Optimization
 
 ---
